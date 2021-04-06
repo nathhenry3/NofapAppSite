@@ -1,0 +1,9 @@
+---
+title: "Instructions"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Let's write some instructions. 

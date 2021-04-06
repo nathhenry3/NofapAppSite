@@ -1,0 +1,18 @@
+name: "NofapAppSite"
+output_dir: "."
+output: 
+  html_document: 
+    # keep_md: true
+    # df_print: paged
+    theme: darkly
+    # toc: false
+    # toc_float:
+    #   collapsed: true
+    #   smooth_scroll: true
+navbar:
+  title: "NofapAppSite"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Instructions"
+      href: instructions.html
